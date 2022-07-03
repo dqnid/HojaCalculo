@@ -1,0 +1,51 @@
+C:\Users\danih\Google Drive\Universidad\Vigente\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\bin\Debug\HojaCalculo.exe.config
+C:\Users\danih\Google Drive\Universidad\Vigente\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\bin\Debug\HojaCalculo.exe
+C:\Users\danih\Google Drive\Universidad\Vigente\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\bin\Debug\HojaCalculo.pdb
+C:\Users\danih\Google Drive\Universidad\Vigente\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.csprojAssemblyReference.cache
+C:\Users\danih\Google Drive\Universidad\Vigente\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\MainWindow.g.cs
+C:\Users\danih\Google Drive\Universidad\Vigente\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\App.g.cs
+C:\Users\danih\Google Drive\Universidad\Vigente\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo_MarkupCompile.cache
+C:\Users\danih\Google Drive\Universidad\Vigente\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo_MarkupCompile.lref
+C:\Users\danih\Google Drive\Universidad\Vigente\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\MainWindow.baml
+C:\Users\danih\Google Drive\Universidad\Vigente\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.g.resources
+C:\Users\danih\Google Drive\Universidad\Vigente\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.Properties.Resources.resources
+C:\Users\danih\Google Drive\Universidad\Vigente\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.csproj.GenerateResource.cache
+C:\Users\danih\Google Drive\Universidad\Vigente\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.csproj.CoreCompileInputs.cache
+C:\Users\danih\Google Drive\Universidad\Vigente\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.exe
+C:\Users\danih\Google Drive\Universidad\Vigente\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.pdb
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\bin\Debug\HojaCalculo.exe.config
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\bin\Debug\HojaCalculo.exe
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\bin\Debug\HojaCalculo.pdb
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.csprojAssemblyReference.cache
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\MainWindow.g.cs
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\App.g.cs
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo_MarkupCompile.cache
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo_MarkupCompile.lref
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\MainWindow.baml
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.g.resources
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.Properties.Resources.resources
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.csproj.GenerateResource.cache
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.csproj.CoreCompileInputs.cache
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.exe
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.pdb
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\Window1.g.cs
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\Window1.baml
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\bin\Debug\HojaCalculo.exe.config
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\bin\Debug\HojaCalculo.exe
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\bin\Debug\HojaCalculo.pdb
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.csprojAssemblyReference.cache
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\MainWindow.g.cs
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\Window1.g.cs
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\App.g.cs
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo_MarkupCompile.cache
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo_MarkupCompile.lref
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\MainWindow.baml
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\Window1.baml
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.g.resources
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.Properties.Resources.resources
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.csproj.GenerateResource.cache
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.csproj.CoreCompileInputs.cache
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.exe
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\HojaCalculo.pdb
+C:\Users\danih\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\x230\Google Drive\Universidad\Primer Cuatrimestre\Interfaces Gráficas De Usuario\Final\HojaCalculo\HojaCalculo\obj\Debug\GeneratedInternalTypeHelper.g.cs

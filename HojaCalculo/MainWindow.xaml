@@ -1,0 +1,45 @@
+﻿<Window x:Class="HojaCalculo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HojaCalculo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" MinHeight="225" MinWidth="400">
+    <Grid>
+        <Grid.Resources>
+            <Style TargetType="Button">
+                <Setter Property="Background" Value="Lavender"/>
+                <Setter Property="Foreground" Value="Black"/>
+            </Style>
+            <Style TargetType="Grid">
+                <Setter Property="Background" Value="SeaShell"/>
+            </Style>
+        </Grid.Resources>
+        <Grid.RowDefinitions>
+            <RowDefinition x:Name="Canvas_grid" Height="*"/>
+            <RowDefinition Name="PanelControl" Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition x:Name="Ancho_Total" Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid x:Name="theGrid" MouseDown="theGrid_MouseDown" MouseUp="theGrid_MouseUp" MouseMove="theGrid_MouseMove" Background="Transparent" Grid.Row="0">
+            <Canvas Name="Lienzo" ClipToBounds="True" Background="WhiteSmoke" Margin="10" SizeChanged="Lienzo_SizeChanged">
+            <Canvas.LayoutTransform>
+                <ScaleTransform ScaleX="1" ScaleY="-1"/>
+            </Canvas.LayoutTransform>
+        </Canvas>
+        <Canvas>
+            <Rectangle
+                x:Name="selectionBox"
+                Visibility="Collapsed"
+                Stroke="Black"
+                StrokeThickness="1"
+                />
+        </Canvas>
+        </Grid>
+    <WrapPanel Name="Panel_Inferior" Grid.Row="1" VerticalAlignment="Bottom" Orientation="Horizontal" Margin="10"> 
+            <Button Name="Anadir_coleccion" Content="Añadir colección" Click="Anadir_coleccion_Click" Margin="0,0,5,0"/>
+        </WrapPanel>
+    </Grid>
+</Window>
